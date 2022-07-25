@@ -6,13 +6,16 @@
 body {
 	background-color: #3399CC;
 	border: solid #2B81AC 25px !important;
-	height: calc(100vh - 5px);
+
 }
+
+
 
 .container {
 	max-width: 1070px;
 	margin: 0 auto;
 	padding: 0 15px;
+
 }
 
 .header .container h1 {
